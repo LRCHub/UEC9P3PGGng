@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "UNISON",
+  "base_artist": "Kis-My-Ft2",
+  "createdAt": "2026-02-18T08:05:21.670371Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "...And We Exhale And Roll Our Eyes In Unison",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/01_...And_We_Exhale_And_Roll_Our_Eyes_In_Unison_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Real Virtual Unison",
+      "artist": "Negative Gemini",
+      "has_synced": false,
+      "path": "select/02_Real_Virtual_Unison_Negative_Gemini.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unison",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/03_Unison_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Unison",
+      "artist": "Laura Branigan",
+      "has_synced": false,
+      "path": "select/04_Unison_Laura_Branigan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unison",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/05_Unison_Björk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Square Wave In Unison",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/06_Square_Wave_In_Unison_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In Unison",
+      "artist": "Sorry",
+      "has_synced": false,
+      "path": "select/07_In_Unison_Sorry.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unison",
+      "artist": "宝鐘マリン feat. Yunomi",
+      "has_synced": true,
+      "path": "select/08_Unison_宝鐘マリン_feat._Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unison",
+      "artist": "宝鐘マリン/Yunomi",
+      "has_synced": true,
+      "path": "select/09_Unison_宝鐘マリン_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Unison",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/10_Unison_Céline_Dion.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNISON",
+      "artist": "Kis-My-Ft2",
+      "has_synced": false,
+      "path": "select/pl_01_UNISON_Kis-My-Ft2.txt"
+    }
+  ]
+}
